@@ -14,4 +14,5 @@ This is to summarise the number of crossovers (COs) and non-crossovers (NCOs)
 This is a modified script of `CO_NCO_Queen_Drone_postFIlter_v2.R` to detect gene conversions and NCOs.
 
 
-
+### Simulate_COInterference_v1.R
+This is to investigate the effect of crossover density on the estimate of crossover interference parameter (nu)
